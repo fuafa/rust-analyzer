@@ -1,0 +1,1 @@
+initSidebarItems({"macro":[["expect","expect![[r#\"inline snapshot\"#]]"],["expect_file","expect_file![\"/crates/foo/test_data/bar.html\"]"]],"struct":[["Expect",""],["ExpectFile",""],["Position",""]]});
